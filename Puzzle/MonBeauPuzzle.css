@@ -1,0 +1,32 @@
+h2{
+    text-align: center;
+    color: navajowhite;
+}
+
+table { 
+    margin: auto; 
+    border-collapse: collapse;
+
+    padding-bottom: 100px;
+    padding-left: 10px;
+    padding-right: 100px;
+    
+}
+
+th, tr {
+    border: 1px solid rgb(0, 0, 0);
+    vertical-align: bottom;
+}
+
+th{
+    height: 90px;
+    width: 90px;
+}
+
+body{
+    background-color:black; 
+}
+
+h4{
+    text-align: center;
+}

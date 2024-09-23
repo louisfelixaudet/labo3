@@ -1,0 +1,45 @@
+body{
+    background-image: url('fond-aquarelle-neutre_23-2150597269.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+table
+   { 
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    color: rgb(0, 0, 0);
+    padding-left: 30%;
+   }
+   th, tr, td
+{
+    border: 1px solid rgb(0, 0, 0);
+    
+}
+tr:nth-child(even){
+    background-color: aquamarine;
+    color: black;
+}
+tr:nth-child(odd){
+ color: white;
+}
+
+a{
+position: absolute;
+text-align: center;
+top: 60%;
+left: 46%;
+font-size: 190%;
+
+}
+
+

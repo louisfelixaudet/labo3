@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+color: goldenrod;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    color: goldenrod;
+    width: 90%;
+   
+text-align: center;
+}
+a{
+    color: goldenrod;
+}
+
+#best{
+    color: red;
+}
+
+table, tr, td{
+    border: 1px solid goldenrod;
+    border-collapse: collapse;
+    padding: 16px;
+}
+
+img{
+    max-width: max-content;
+    max-height: max-content;
+}
+
+p{
+    color: red;
+}

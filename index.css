@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+th, tr, td
+{
+    border: 1px solid aquamarine;
+    
+}
+
+table{
+    
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        color: aquamarine;
+      
+}
+
+p {
+    color: aquamarine;
+}
+
+a:hover {
+  color: red;
+}
+
+td 
+{
+ text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+
+div{
+    color: black;
+}
+
+a{
+ color: aquamarine;
+}
